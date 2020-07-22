@@ -1,5 +1,5 @@
 import { createApp } from 'vue'
-import './assets/main.css'
+import './assets/css/tailwind.css'
 import App from './App.vue'
 import { routes } from './routes.js'
 import { createRouter, createWebHistory } from 'vue-router'
@@ -28,5 +28,4 @@ if (import.meta.hot) {
 }
 
 app.use(router)
-
 app.mount('#app')
