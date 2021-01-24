@@ -1,5 +1,7 @@
 <template>
-  <main>
+  <main class="w-full h-screen relative">
+	<img src="/img/beazy.jpg" alt="" class="absolute w-full h-full object-cover">
+	
 	<header class="relative z-40 w-full h-24 px-12 flex justify-between items-center">
 	
 		<div class="flex justify-center lg:justify-start">
@@ -11,7 +13,9 @@
 		</div>
 
 	</header>	
+
   </main>
+
 </template>
 
 <script>
