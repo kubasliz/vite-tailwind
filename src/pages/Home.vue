@@ -1,6 +1,6 @@
 <template>
   <main class="w-full h-screen relative">
-	<img src="/img/beazy.jpg" alt="" class="absolute w-full h-full object-cover">
+	  <img id="img" src="/img/beazy.jpg" alt="" class="absolute w-full h-full object-cover">
 	
 	<header class="relative z-40 w-full h-24 px-12 flex justify-between items-center">
 	
@@ -34,8 +34,9 @@ export default {
 </script>
 
 <style>
-.home{
-  height: 100vh;
-}
+
+  #img {
+    clip-path: polygon(100% 0, 100% 83%, 18% 101%, 0 79%, 0 0);
+  }
 
 </style>
