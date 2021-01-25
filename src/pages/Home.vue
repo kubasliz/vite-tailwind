@@ -15,7 +15,6 @@
 	</header>	
 
   </main>
-
 </template>
 
 <script>
@@ -36,7 +35,7 @@ export default {
 <style>
 
   #img {
-    clip-path: polygon(100% 0, 100% 83%, 18% 101%, 0 79%, 0 0);
+    clip-path: polygon(100% 0, 100% 83%, 19% 101%, 0 79%, 0 0);
   }
 
 </style>
