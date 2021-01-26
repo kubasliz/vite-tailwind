@@ -18,27 +18,26 @@
 
   <div class="w-full py-24 px-6 relative z-10">
 		
-	  <div class="max-w-4xl mx-auto text-left flex items-center">
+	 <div class="max-w-4xl mx-auto text-left flex items-center">
 
-		  <div class="w-full">
-        <span class="text-gray">Introduction</span>
-        <span class="inline-block h-1 w-24 ml-4 border-t border-gray-600"></span>
-			  <h1 class="text-2xl text-gray-900 mb-3">Sit id reprehenderit adipisicing elit ad nisi irure ea cillum.</h1>
-				  <p class="text-md text-gray-600">
-						Quis cupidatat et velit minim laborum magna cupidatat laboris enim sunt fugiat.Ipsum eu aute aliqua incididunt.Culpa aliqua mollit fugiat ut nisi exercitation ut irure.
-					</p>
+		<div class="w-full">
+        	<span class="text-gray">Introduction</span>
+        	<span class="inline-block h-1 w-24 ml-4 border-t border-gray-600"></span>
+			<h1 class="text-2xl text-gray-900 mb-3">Sit id reprehenderit adipisicing elit ad nisi irure ea cillum.</h1>
+				<p class="text-md text-gray-600">
+					Quis cupidatat et velit minim laborum magna cupidatat laboris enim sunt fugiat.Ipsum eu aute aliqua incididunt.Culpa aliqua mollit fugiat ut nisi exercitation ut irure.
+				</p>
+		</div>
 
-			</div>
-
-			<div class="w-1/3 mr-20 ">
-        <a href="#" class="block w-44 h-44 rounded-full border-2 overflow-hidden">
-				  <img src="/img/jump.jpg" class="w-full h-full object-cover">
-				</a>
-			</div>
+		<div class="w-1/3 mr-20 ">
+        	<a href="#" class="block w-44 h-44 rounded-full border-2 overflow-hidden">
+				<img src="/img/jump.jpg" class="w-full h-full object-cover">
+			</a>
+		</div>
 		
-    </div>
-
 	</div>
+  
+  </div>
 
 </template>
 
